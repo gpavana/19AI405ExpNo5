@@ -1,6 +1,7 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:PAVANA.G</h3>
-<h3>Register Number:212222230105</h3>
+<h3>DATE:06.03.2024</h3>
+<h3>Name: PAVANA.G</h3>
+<h3>Register Number: 212222230105</h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -99,6 +100,3 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
-
-## RESULT:
-Thus , Simple Hill Climbing Algorithm and to Generate a String by Mutating a Single Character at each iteration was implemented successfully.
