@@ -10,25 +10,15 @@ Feedback is provided in terms of heuristic function
 </p>
 
 
-<h2>Algorithm:</h2>
-<p>
-<ol>
- <li> Evaluate the initial state.If it is a goal state then return it and quit. Otherwise, continue with initial state as current state.</li> 
-<li>Loop until a solution is found or there are no new operators left to be applied in current state:
-<ul><li>Select an operator that has not yet been applied to the current state and apply it to produce a new state</li>
-<li>Evaluate the new state:
-  <ul>
-<li>if it is a goal state, then return it and quit</li>
-<li>if it is not a goal state but better than current state then make new state as current state</li>
-<li>if it is not better than current state then continue in the loop</li>
-    </ul>
-</li>
-</ul>
-</li>
-</ol>
+### Algorithm
+ **STEP 1** :Evaluate the initial state.If it is a goal state then return it and quit. Otherwise, continue with initial state as current state. 
+ **STEP 2**:Loop until a solution is found or there are no new operators left to be applied in current state:
+ **STEP 3**Select an operator that has not yet been applied to the current state and apply it to produce a new state
+ **STEP 4**Evaluate the new state:
+ **STEP 5**if it is a goal state, then return it and quit
+ **STEP 6**if it is not a goal state but better than current state then make new state as current state</li>
+ **STEP 7**if it is not better than current state then continue in the loop</li>
 
-</p>
-<hr>
 
 <h3> Steps Applied:</h3>
 <h3>Step-1</h3>
