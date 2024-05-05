@@ -20,15 +20,11 @@ Feedback is provided in terms of heuristic function
  **STEP 7**if it is not better than current state then continue in the loop</li>
 
 
-<h3> Steps Applied:</h3>
-<h3>Step-1</h3>
-<p> Generate Random String of the length equal to the given String</p>
-<h3>Step-2</h3>
-<p>Mutate the randomized string each character at a time</p>
-<h3>Step-3</h3>
-<p> Evaluate the fitness function or Heuristic Function</p>
-<h3>Step-4:</h3>
-<p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
+###  Steps Applied:
+**STEP 1** Generate Random String of the length equal to the given String
+**STEP 2**Mutate the randomized string each character at a time
+**STEP 3**Evaluate the fitness function or Heuristic Function</p>
+**STEP 4**Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 ## PROGRAM:
 ```python
